@@ -1,4 +1,4 @@
-###  👋 Bem-vindo!
+###  👋 Seja bem-vindo! Eu sou Renata Büttenbender
   <img align="right" alt="Biten-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 <div>  
 <a href="https://www.linkedin.com/in/buttenbender-py/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
@@ -17,7 +17,7 @@
 <div>
   <div>
     <img align="center" alt="Biten-Firef" height="50" width="50" src="https://cdn.discordapp.com/attachments/1047516455077421058/1047518946527563796/678-fireman-gradient.gif">
-    Atualmente, Bombeiro da Força Aérea  
+    Atualmente, Bombeiro da Força Aérea Brasileira  
   </div>
   <br>
   <div>
