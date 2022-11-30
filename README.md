@@ -11,7 +11,7 @@
 ##
   <div align="right">
     <img align="centre" alt="Biten-Data" height="50" width="50" src="https://cdn.discordapp.com/attachments/1047516455077421058/1047518945453821963/680-it-developer-gradient.gif">
-    Tem interesses por Data Science e AI <img align="center" alt="Biten-Data" height="50" width="50" src="https://cdn.discordapp.com/attachments/1047516455077421058/1047516555136733225/153-bar-chart-growth-gradient.gif">
+    Tem interesse por Data Science e AI <img align="center" alt="Biten-Data" height="50" width="50" src="https://cdn.discordapp.com/attachments/1047516455077421058/1047516555136733225/153-bar-chart-growth-gradient.gif">
     </div>
 
 <div>
