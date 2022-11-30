@@ -8,10 +8,27 @@
 </p>
 
 ##
-<div style="display: inline_block"><br>
-  <img align="center" alt="Biten-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Biten-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg">
-</div>
+<div>
+  <div>
+    <img align="center" alt="Biten-Firef" height="50" width="50" src="https://cdn.discordapp.com/attachments/1047516455077421058/1047518946527563796/678-fireman-gradient.gif">
+    Atualmente, Bombeiro da Força Aérea
+  </div>
+   <br>
+  <div>
+    <img align="centre" alt="Biten-Grad" height="50" width="50" src="https://cdn.discordapp.com/attachments/1047516455077421058/1047518945793552444/1764-pushups-gradient.gif">
+    Graduanda em Bacharel em Educação Física
+  </div>
+  <div>
+    <img align="center" alt="Biten-Book" height="50" width="50" src="https://cdn.discordapp.com/attachments/1047516455077421058/1047518947437707305/112-book-morph-gradient.gif">
+    Iniciou os Estudos em novembro/22
+  </div>
+   <br>
+  <div align="right">
+    <img align="centre" alt="Biten-Data" height="50" width="50" src="https://cdn.discordapp.com/attachments/1047516455077421058/1047518945453821963/680-it-developer-gradient.gif">
+    Tem interesses por Data Science e AI <img align="center" alt="Biten-Data" height="50" width="50" src="https://cdn.discordapp.com/attachments/1047516455077421058/1047516555136733225/153-bar-chart-growth-gradient.gif">
+  </div>
+  <div>
+    
 
 ##
 
@@ -23,3 +40,7 @@
   </div>
   
  
+<div style="display: inline_block"><br>
+  <img align="center" alt="Biten-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Biten-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg">
+</div>
