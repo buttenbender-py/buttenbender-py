@@ -27,7 +27,7 @@
   <br>
   <div>
     <img align="center" alt="Biten-Book" height="50" width="50" src="https://cdn.discordapp.com/attachments/1047516455077421058/1047518947437707305/112-book-morph-gradient.gif">
-    Iniciou os Estudos em novembro/22
+    Iniciou os estudos em novembro/22
   </div>
    <br>
   <div align="right">
