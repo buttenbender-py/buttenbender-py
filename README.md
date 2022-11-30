@@ -8,36 +8,34 @@
 </p>
 
 ##
+  <div align="right">
+    <img align="centre" alt="Biten-Data" height="50" width="50" src="https://cdn.discordapp.com/attachments/1047516455077421058/1047518945453821963/680-it-developer-gradient.gif">
+    Tem interesses por Data Science e AI <img align="center" alt="Biten-Data" height="50" width="50" src="https://cdn.discordapp.com/attachments/1047516455077421058/1047516555136733225/153-bar-chart-growth-gradient.gif">
+    </div>
+
 <div>
   <div>
     <img align="center" alt="Biten-Firef" height="50" width="50" src="https://cdn.discordapp.com/attachments/1047516455077421058/1047518946527563796/678-fireman-gradient.gif">
-    Atualmente, Bombeiro da Força Aérea
+    Atualmente, Bombeiro da Força Aérea  
   </div>
-   <br>
+  <br>
   <div>
-    <img align="centre" alt="Biten-Grad" height="50" width="50" src="https://cdn.discordapp.com/attachments/1047516455077421058/1047518945793552444/1764-pushups-gradient.gif">
+    <img align="center" alt="Biten-Book" height="50" width="50" src="https://cdn.discordapp.com/attachments/1047516455077421058/1047518945793552444/1764-pushups-gradient.gif">
     Graduanda em Bacharel em Educação Física
   </div>
+  <br>
   <div>
     <img align="center" alt="Biten-Book" height="50" width="50" src="https://cdn.discordapp.com/attachments/1047516455077421058/1047518947437707305/112-book-morph-gradient.gif">
     Iniciou os Estudos em novembro/22
   </div>
    <br>
   <div align="right">
-    <img align="centre" alt="Biten-Data" height="50" width="50" src="https://cdn.discordapp.com/attachments/1047516455077421058/1047518945453821963/680-it-developer-gradient.gif">
-    Tem interesses por Data Science e AI <img align="center" alt="Biten-Data" height="50" width="50" src="https://cdn.discordapp.com/attachments/1047516455077421058/1047516555136733225/153-bar-chart-growth-gradient.gif">
+
   </div>
-  <div>
     
 
 ##
 
-#### No momento
-
-* 📖 Leitura - Data Science para Negócios
-* 📚 Estudando - Python
-* 👩‍🔬 Pretensão- Data Science
-  </div>
   
  
 <div style="display: inline_block"><br>
